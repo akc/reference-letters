@@ -1,0 +1,41 @@
+Referee: anders.claesson@strath.ac.uk, 5 September 2013 1:20 PM BST
+Applicant Number: 139224234 / 1
+Name: Haldane, Jordan
+Programme Name: MSc Advanced Computer Science
+Mode of Attendance: full-time
+Applicant Start Date: 01/09/2013
+Minimum Duration: 12 Months
+
+# For how long and in what capacity have you known the applicant?
+
+I was Jordan's advisor for his individual project. This lasted from Oct
+2011 to April 2012. 
+
+# What is your assessment of the applicant's intellectual ability?
+
+Jordan is a good communicator; he has a good command of language. He is good
+at planing. His abstract thinking is a bit weaker.
+
+# Is the applicant suitably motivated towards and suitable for
+  postgraduate study?
+
+Yes, he is.
+
+# What do you consider to be the applicant's principal strengths and
+  weaknesses?
+
+Jordan's principal strengths are that he is diligent and independent. He
+made my work as advisor exceptionally easy. Jordan planned the project,
+booked meetings, set deadlines, etc, without me having to do
+anything. He had no problems meeting the deadlines even-though I made it
+harder for him by modifying the specification of his project a few
+times. He also has a positive outlook and is easy to communicate
+with. Jordan also appears to be very comfortable programming.
+
+With regard to weaknesses, I think he sets his goals a bit low
+sometimes; his project could have been more ambitious. Also, he
+struggles with the more theoretical parts of computer science, such as
+algorithms and their underpinnings. I would not recommend him for
+mathematical work.
+
+# Please add here any further relevant information
