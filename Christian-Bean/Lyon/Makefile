@@ -1,0 +1,2 @@
+ChristianBean_AndersClaesson_ext.pdf: ChristianBean_AndersClaesson_ext.tex
+	pdflatex ChristianBean_AndersClaesson_ext.tex
