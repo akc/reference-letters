@@ -1,0 +1,12 @@
+In "Preimages under the bubblesort operator" (Mathilde Bouvel, Lapo
+Cioni, Luca Ferrari) you say
+
+"Our focus in the present work is on the bubblesort operator, B, which
+corresponds to one pass of the bubblesort algorithm. Although not
+strictly speaking a sorting procedure associated with a particular
+device, B shares some features with such procedures, as demonstrated in
+[1]."
+
+It's not true that B isn't associated with a sorting device. It's
+exactly sorting with a stack of depth 2. Indeed, considering a stack of
+depth d could be an interesting generalization to consider.
