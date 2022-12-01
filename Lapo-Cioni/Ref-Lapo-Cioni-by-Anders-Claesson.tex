@@ -13,6 +13,7 @@
 \newcommand{\unB}{{\B^{-1}}}
 \newcommand{\unQ}{{\Q^{-1}}}
 \newcommand{\unS}{{\S^{-1}}}
+\newcommand{\Id}{\mathrm{Id}}
 \newcommand{\Class}{\mathcal{C}}
 
 \begin{document}
@@ -30,14 +31,21 @@ devices, or data-structures, and it's about the structure of classes of
 permutations.
 
 One question that is central in Lapo's work is the following. If
-$\Class$ is a (pattern) \emph{class}---i.e.\ a downwards closed set of
+$\sigma$ is a permutation and $T$ is a sorting operator, then what is
+the set $T^{-1}(\sigma)=\{\pi : T(\pi) = \sigma\}$? Of particular
+interest is the set $T^{-1}(\Id_n)$ of permutations sortable by $T$.
+
+
+
+If
+$\Class$ is a \emph{pattern class}---i.e.\ a downwards closed set of
 permutations in the containment order---and $T$ is a sorting operator,
-then what is the set $T^{-1}(\Class)$. In other words, what is the set
+then what is the set $T^{-1}(\Class)$? In other words, what is the set
 $\{\pi : T(\pi)\in \Class\}$ of permutations that are in $\Class$ after
 one application of $T$. Typically $T$ is one of $\B$ (bubble-sort), $\S$
-(stack-sort) or $\Q$ (queue-sort). Also, $\Class$ is of the form
+(stack-sort) or $\Q$ (queue-sort), and $\Class$ is of the form
 $\Av(P)$, the set of permutations avoiding the patterns in
-$P$. Note that the permutations sortable by $T$ is
+$P$. With this terminology, the permutations sortable by $T$ is
 $T^{-1}(\Av(12))$.
 
 Studying preimages is one of the main avenues for understanding sorting
@@ -50,6 +58,8 @@ $(\S^2)^{-1}(\Av(21))$ of permutations sortable by two passes through a
 stack is $\unS(\Av(231))$. Similarly, the permutations sortable by
 $\S\circ \B$ are $\unB(\Av(231))$, and the permutations sortable by
 $\B\circ \S$ are $\unS(\Av(231, 321))$.
+
+They describe the sorting tree for $\B$. Explicitly describe $\unB(\sigma)$.
 
 
 Lapo is obviously a very talented young mathematician. I strongly support
