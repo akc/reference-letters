@@ -6,6 +6,14 @@
 \usepackage{graphicx}
 \usepackage[left=4.3cm,top=2.10cm,right=4.3cm,bottom=3cm]{geometry}
 
+\newcommand{\Av}{\mathrm{Av}}
+\newcommand{\B}{\mathbf{B}}
+\newcommand{\Q}{\mathbf{Q}}
+\renewcommand{\S}{\mathbf{S}}
+\newcommand{\unB}{{\B^{-1}}}
+\newcommand{\unQ}{{\Q^{-1}}}
+\newcommand{\unS}{{\S^{-1}}}
+
 \begin{document}
 \thispagestyle{empty}
 \includegraphics[width=2.6cm]{UI-logo} \hfill 30 November 2022\\[0.5cm]
@@ -17,12 +25,23 @@
 I don't know Lapo personally, but I do know his work; I am an examiner
 of Lapo's PhD thesis. His research subject sits in the intersection of
 computer science and mathematics. It's about sorting using primitive
-devices, or data-structures, and it's about the structure of permutation
-classes.
+devices, or data-structures, and it's about the structure of classes of
+permutations.
+
+One reason for being interested in preimages of classes is to
+understand compositions of sorting operators. If $T$ and $U$ are
+sorting operators, then the permutations sortable by $T\circ U$ are
+$(T\circ U)^{-1}(\Av(21)) = U^{-1}(T^{-1}(\Av(21)))$. For instance, let $S$ be
+the stack sorting operator.
+
+Knuth observed that $\unS(\Av(21)) = \Av(231)$. Consequently, the set
+$(\S^2)^{-1}(\Av(21))$ of permutations sortable by two passes through a
+stack is $\unS(\Av(231))$. Similarly, the permutations sortable by
+$\S\circ \B$ are $\unB(\Av(231))$, and the permutations sortable by
+$\B\circ \S$ are $\unS(\Av(231, 321))$.
 
 
-
-He is obviously a very talented young mathematician. I strongly support
+Lapo is obviously a very talented young mathematician. I strongly support
 his application.
 
 Yours sincerely,\medskip\\
