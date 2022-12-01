@@ -13,6 +13,7 @@
 \newcommand{\unB}{{\B^{-1}}}
 \newcommand{\unQ}{{\Q^{-1}}}
 \newcommand{\unS}{{\S^{-1}}}
+\newcommand{\Class}{\mathcal{C}}
 
 \begin{document}
 \thispagestyle{empty}
@@ -28,12 +29,22 @@ computer science and mathematics. It's about sorting using primitive
 devices, or data-structures, and it's about the structure of classes of
 permutations.
 
-One reason for being interested in preimages of classes is to
-understand compositions of sorting operators. If $T$ and $U$ are
-sorting operators, then the permutations sortable by $T\circ U$ are
-$(T\circ U)^{-1}(\Av(21)) = U^{-1}(T^{-1}(\Av(21)))$. For instance, let $S$ be
-the stack sorting operator.
+One question that is central in Lapo's work is the following. If
+$\Class$ is a (pattern) \emph{class}---i.e.\ a downwards closed set of
+permutations in the containment order---and $T$ is a sorting operator,
+then what is the set $T^{-1}(\Class)$. In other words, what is the set
+$\{\pi : T(\pi)\in \Class\}$ of permutations that are in $\Class$ after
+one application of $T$. Typically $T$ is one of $\B$ (bubble-sort), $\S$
+(stack-sort) or $\Q$ (queue-sort). Also, $\Class$ is of the form
+$\Av(P)$, the set of permutations avoiding the patterns in
+$P$. Note that the permutations sortable by $T$ is
+$T^{-1}(\Av(12))$.
 
+Studying preimages is one of the main avenues for understanding sorting
+operators. In particular, they elucidate compositions of sorting
+operators: If $T$ and $U$ are sorting operators, then the permutations
+sortable by $T\circ U$ are
+$(T\circ U)^{-1}(\Av(21)) = U^{-1}(T^{-1}(\Av(21)))$. For instance,
 Knuth observed that $\unS(\Av(21)) = \Av(231)$. Consequently, the set
 $(\S^2)^{-1}(\Av(21))$ of permutations sortable by two passes through a
 stack is $\unS(\Av(231))$. Similarly, the permutations sortable by
