@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 
 \usepackage{graphicx}
-\usepackage[left=4.3cm,top=2.10cm,right=4.3cm,bottom=3cm]{geometry}
+\usepackage[left=3.4cm,top=2.1cm,right=3.4cm,bottom=2cm]{geometry}
 
 \newcommand{\Av}{\mathrm{Av}}
 \newcommand{\B}{\mathbf{B}}
@@ -27,26 +27,21 @@
 I don't know Lapo personally, but I do know his work; I am an examiner
 of Lapo's PhD thesis. His research subject sits in the intersection of
 computer science and mathematics. It's about sorting using primitive
-devices, or data-structures, and it's about the structure of classes of
-permutations.
-
-One question that is central in Lapo's work is the following. If
-$\sigma$ is a permutation and $T$ is a sorting operator, then what is
-the set $T^{-1}(\sigma)=\{\pi : T(\pi) = \sigma\}$? Of particular
-interest is the set $T^{-1}(\Id_n)$ of permutations sortable by $T$.
-
-
-
-If
-$\Class$ is a \emph{pattern class}---i.e.\ a downwards closed set of
-permutations in the containment order---and $T$ is a sorting operator,
-then what is the set $T^{-1}(\Class)$? In other words, what is the set
-$\{\pi : T(\pi)\in \Class\}$ of permutations that are in $\Class$ after
-one application of $T$. Typically $T$ is one of $\B$ (bubble-sort), $\S$
-(stack-sort) or $\Q$ (queue-sort), and $\Class$ is of the form
-$\Av(P)$, the set of permutations avoiding the patterns in
-$P$. With this terminology, the permutations sortable by $T$ is
-$T^{-1}(\Av(12))$.
+devices, or container data structures, and it's about the structure of
+classes of permutations. The starting point of this area can be seen as
+Knuth's characterization of permutations sortable using a stack as those
+avoiding the pattern 231. Symbolically we may express this as
+$\unS(\Id_n)=\Av_n(231)$. A central question in this area and in Lapo's
+work is the following: If $T$ is a sorting operator, then how can we
+characterize and enumerate the set $T^{-1}(\Id_n)$ of permutations
+sortable by $T$; or, a bit more generally, if $\sigma$ is a permutation,
+how can we characterize and enumerate the set $T^{-1}(\sigma)$? The
+latter formulation can also be seen as a stepping stone to
+characterizing $T^{-1}(\Class)$ in which $\Class$ is a \emph{pattern
+class}---i.e.\ a downwards closed set of permutations in the containment
+order. Typically $T$ is one of $\B$ (bubble-sort), $\S$ (stack-sort) or
+$\Q$ (queue-sort). The class $\Class$ can always be taken to be of the
+form $\Av(P)$, the set of permutations avoiding the patterns in $P$.
 
 Studying preimages is one of the main avenues for understanding sorting
 operators. In particular, they elucidate compositions of sorting
@@ -56,14 +51,27 @@ $(T\circ U)^{-1}(\Av(21)) = U^{-1}(T^{-1}(\Av(21)))$. For instance,
 Knuth observed that $\unS(\Av(21)) = \Av(231)$. Consequently, the set
 $(\S^2)^{-1}(\Av(21))$ of permutations sortable by two passes through a
 stack is $\unS(\Av(231))$. Similarly, the permutations sortable by
-$\S\circ \B$ are $\unB(\Av(231))$, and the permutations sortable by
+$\S\circ \B$ are those in $\unB(\Av(231))$, and the permutations sortable by
 $\B\circ \S$ are $\unS(\Av(231, 321))$.
 
-They describe the sorting tree for $\B$. Explicitly describe $\unB(\sigma)$.
+Lapo has, in collaboration with coauthors, been able to completely
+describe the sets $\unB(\sigma)$. Indeed, they were able to describe the
+whole sorting tree for $\B$. Similarly, Lapo and his advisor have given
+a recursive description of the preimages $\unQ(\sigma)$; in particular,
+they proved the curious property that $\unQ(\sigma)$ can be of any size
+except 3. I another paper Lapo introduces a variant of a queue that he
+calls a popqueue. He shows that there is an optimal sorting algorithm
+and, again, characterizes preimages.
 
+Departing from the operator perspective for a moment, we also note that
+Lapo and coauthors have given an optimal sorting algorithm for the so
+called $D^2I$-stack and shown that the corresponding set of sortable
+permutations has an infinite basis (the $DI$-stack has a finite basis).
 
-Lapo is obviously a very talented young mathematician. I strongly support
-his application.
+In summary, Lapo has made significant progress on hard problems that are
+at the heart of the vibrant research area we know as permutation
+pattern. He is obviously a very talented young mathematician, and I
+support his application.
 
 Yours sincerely,\medskip\\
 \includegraphics[height=1.1cm]{signature}\smallskip\\
