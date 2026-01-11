@@ -1,0 +1,13 @@
+I've known Bjarki since ????
+
+Courses with me: 
+
+Bjarki also did a research oriented combinatorics BS project with me.
+
+As part of his BS project, Bjarki implemented the Goulden-Jackson
+cluster method in Sage. He also implement a pattern-rewriting system
+(resembles term-rewriting).
+
+It's impressive how Bjarki has become fluent in Category Theory and an
+expert in formal proofs in Agda in such a short time.
+
