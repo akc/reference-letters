@@ -1,4 +1,4 @@
-I've known Bjarki since ????
+I've known Bjarki since 2019 when he took my Algebra course.
 
 Courses with me: 
 
@@ -11,3 +11,4 @@ cluster method in Sage. He also implement a pattern-rewriting system
 It's impressive how Bjarki has become fluent in Category Theory and an
 expert in formal proofs in Agda in such a short time.
 
+Bjarki was an appreciated teaching assistant on a crypto currency course.
