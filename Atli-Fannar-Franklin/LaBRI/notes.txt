@@ -1,0 +1,11 @@
+- Let CC/Codex read Atli's thesis
+
+- Strengths:
+  - Master programmer.
+  - Doesn't give up. Solves very hard problems.
+  - Breaths of math and CS skills
+
+- Weakness:
+  - Doesn't generate new ideas.
+  - Has a very personal writing style. Can be hard to follow.
+
