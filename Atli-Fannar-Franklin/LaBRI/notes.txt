@@ -3,9 +3,15 @@
 - Strengths:
   - Master programmer.
   - Doesn't give up. Solves very hard problems.
-  - Breaths of math and CS skills
+    - In the first paper of his thesis "Counting tournament score sequences" solved ...
+    - The second paper of his thesis "Permutations with few inversions"
+      had been gathering dust for quite some time. I had invided the
+      best combinatorialists in my circle to try and solve it
 
-- Weakness:
+  - Impressive breath of math and CS skills
+  - Easy to work with
+
+- Weaknesses/mixed:
   - Doesn't generate new ideas.
-  - Has a very personal writing style. Can be hard to follow.
-
+  - Atli has quite a personal writing style, which has its charm, but it
+    can also be hard to follow.
