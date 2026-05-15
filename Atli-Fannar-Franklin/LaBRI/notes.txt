@@ -1,17 +1,25 @@
-- Let CC/Codex read Atli's thesis
+# Strengths:
 
-- Strengths:
-  - Master programmer.
-  - Doesn't give up. Solves very hard problems.
-    - In the first paper of his thesis "Counting tournament score sequences" solved ...
-    - The second paper of his thesis "Permutations with few inversions"
-      had been gathering dust for quite some time. I had invided the
-      best combinatorialists in my circle to try and solve it
+- Doesn't give up. Solves very hard problems.
+  - In the first paper of his thesis "Counting tournament score sequences" solved ...
+  - The second paper of his thesis "Permutations with few inversions"
+    had been gathering dust for quite some time. I had invided the
+    best combinatorialists in my circle to try and solve it
 
-  - Impressive breath of math and CS skills
-  - Easy to work with
+- Breaths of math and CS skills
+  
+- Master programmer. Competitive programmer.
+  
+- Social: Active in setting problems both in mathematics and
+  programming competition. Coach for the Icelandic IMO team. Easy to work with.
 
-- Weaknesses/mixed:
-  - Doesn't generate new ideas.
-  - Atli has quite a personal writing style, which has its charm, but it
-    can also be hard to follow.
+# Weakness:
+
+- Doesn't generate new ideas. Or rather, hasn't yet set his
+  own research agenda. He's good at generating new ideas in the
+  context of an existing problem.
+
+# Mixed:
+
+- Atli has quite a personal writing style, which has its charm, but it
+  can also be hard to follow.
