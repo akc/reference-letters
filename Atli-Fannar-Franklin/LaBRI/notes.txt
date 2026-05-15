@@ -23,3 +23,13 @@
 
 - Atli has quite a personal writing style, which has its charm, but it
   can also be hard to follow.
+
+# Additional context
+
+My association with Atli Fannar is older than the starting date of his PhD:
+I was also Atli's advisor on his BSc project. It is known that the
+generating function for the Fubini numbers, $F_n$, admits a simple
+continued fraction expansion In his BSc project Atli gave the first
+combinatorial proof if this result.
+
+As an undergraduate Atli received the Sigurður Helgason award.

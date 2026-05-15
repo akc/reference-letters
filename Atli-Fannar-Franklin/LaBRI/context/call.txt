@@ -1,0 +1,39 @@
+----- Original message -----
+From: Mireille Bousquet-Melou <mireille.bousquet <https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmireille.bousquet%2F&data=05%7C02%7Cakc%40hi.is%7C8bc045b2c49046f8023208de965493be%7C09fa5f0e211846568529677ed8fdbe78%7C0%7C0%7C639113487170721168%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aRu2rLDfuf997RUTAQVc%2FXsEGEMefKodr7cqaiyKbNc%3D&reserved=0>-melou@u-bordeaux.fr <mailto:-melou@u-bordeaux.fr>>
+To: bousquet <bousquet@labri.fr <mailto:bousquet@labri.fr>>
+Subject: Post-doc position in combinatorics in Bordeaux
+Date: Thursday, 9 April 2026 14:44
+
+
+[apologies for any cross-posting]
+
+Dear all,
+
+a post-doc position will be available for one year (and up to one and a half year) in Bordeaux, France, funded by the ANR project "CartesEtPlus" [Maps and More].
+https://www.irif.fr/~chapuy/CartesEtPlus.html
+
+The starting date should be between October 2026 and February 2027. There is no teaching duty.
+
+The general topic is in enumerative and algebraic combinatorics, random discrete objects, geometry of surfaces, with an emphasis on maps, trees, and related objects.
+
+The post-doc will work in the Combinatorics group at LaBRI, University of Bordeaux. He or she will be supervised locally and, if desired, jointly by Baptiste Louf (Toulouse) and/or Andrew Elvey Price (Tours). Locally, the project members are Mireille Bousquet-Mélou, Vincent Delecroix and Jean-François Marckert, inside a larger group working in enumerative and algebraic combinatorics.
+https://ci.labri.fr/pmwiki.php/Main/HomePage?userlang=en
+
+Applications, in French or English, should be sent before May 15th in pdf format via e-mail to vincent.delecroix@u-bordeaux.fr with subject [Postdoc 2026]. It should contain the following three documents:
+- a CV with list of publications and pre-publications,
+- a research statement of 5 to 15 pages,
+- a short research project, related to the above topics.
+Additionally, up to two recommendation letters could be sent separately by their authors to the above address. Please indicate when you would like to start.
+
+Applicants are expected to have a PhD in mathematics, computer science, or theoretical physics when the position starts. Their application should include an expected date for the thesis defense, if applicable.
+
+Decisions will be made by the end of May.
+
+
+Summary:
+- Topic: Combinatorics of maps and related objects
+- Start: between October 2026 and February 2027 (negotiable)
+- Net salary: between 2200 and 2500 per month, depending on experience
+- Duration: 12 months, might be extended to 18 months (under administrative conditions)
+- Location: LaBRI, Université de Bordeaux, France
+- Applications/letters: before May 15th, by e-mail to vincent.delecroix@u-bordeaux.fr 
